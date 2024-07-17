@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praharx aka Harshana
 - 👀 I’m interested in Web technologies 
-- 🌱 Just buildings projects to get the hang of building stuff.
+- 🌱 Just building projects.
 - I’m looking to collaborate on innovative & value-adding Projects
 - 📫 How to reach me ✉️:harshana555prajapati@gmail.com
 - 😄 Pronouns: she/her
