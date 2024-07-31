@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Praharx aka Harshana
-- 👀 I’m interested in Web technologies 
-- 🌱 Just building projects.
-- I’m looking to collaborate on innovative & value-adding Projects
-- 📫 How to reach me ✉️:harshana555prajapati@gmail.com
-- 😄 Pronouns: she/her
+curious about how things work, here to satisfy my inner-curosity channelized by code.
+interested in web3, security and ai. Currently diving with web3 ;)
+
+ 
 
 <!---
 Praharx/Praharx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
