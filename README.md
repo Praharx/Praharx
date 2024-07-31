@@ -1,4 +1,4 @@
-curious about how things work, here to satisfy my inner-curosity channelized by code.
+curious about how things work.
 interested in web3, security and ai. Currently diving with web3 ;)
 
  
