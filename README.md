@@ -1,5 +1,5 @@
 curious about how things work.
-interested in web3, security and ai. Currently hanging around with web3 ;)
+interested in web3, security and ai. Currently hanging around with solana ;)
 
  
 
