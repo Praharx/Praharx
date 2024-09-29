@@ -1,5 +1,7 @@
 curious about how things work.
-interested in web3, security and ai. Currently hanging around with solana ;)
+interested in web3, security and ai.
+
+skills: Rust, anchor, & solana client-side.
 
  
 
