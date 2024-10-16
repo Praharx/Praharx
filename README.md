@@ -3,6 +3,9 @@ interested in web3, security and ai.
 
 skills: Rust, anchor, & solana client-side.
 
+current buid: https://boutnyspread.cc
+
+
  
 
 <!---
