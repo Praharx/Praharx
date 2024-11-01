@@ -5,7 +5,7 @@ skills: Rust, anchor, & solana client-side.
 
 
 
-current build: https://boutnyspread.cc
+current build: https://boutnyspread.cc & Pluto(coming soon)
 
 
  
